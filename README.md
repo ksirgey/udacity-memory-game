@@ -1,9 +1,9 @@
 # Udacity Memory Game
 
 ## Overview
-This is a game to test your memory. The objective of the game is to match all eight sets of cards in the grid.
+This is a game to test your memory. Starter code from Udacity was used to turn this project from static to functional using vanilla javascript. The objective of the game is to match all eight sets of cards in the grid.
 
-## How to install the game locally
+## How to download the game
 
 ## How to play the game
 1. Click on a card of your choosing. This will flip the card over and reveal its symbol.
