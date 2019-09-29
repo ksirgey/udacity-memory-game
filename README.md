@@ -1,4 +1,4 @@
-# udacity-memory-game
+# Udacity Memory Game
 
 ## Overview
 This is a game to test your memory. The objective of the game is to match all eight sets of cards in the grid.
