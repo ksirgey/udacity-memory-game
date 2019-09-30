@@ -19,4 +19,6 @@ To download the game from Github, click [here](https://github.com/ksirgey/udacit
 
 ## Game dependencies
 - Font Awesome
-
+- HTML
+- CSS
+- Javascript
